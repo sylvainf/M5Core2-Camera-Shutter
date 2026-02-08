@@ -79,21 +79,6 @@ Modify the `durations[]` array:
 float durations[] = {0.2, 0.3, 0.5, 1.0, 2.0, 5.0, 10.0, 20.0};
 ```
 
-
-
-## 🤝 Credits & License
-
-### Original Shutter Design
-This project uses the mechanical shutter designed by **hackaninstant** (Jim Skelton):
-- GitHub: [hackaninstant/Servo-Shutter](https://github.com/hackaninstant/Servo-Shutter)
-- Video: [YouTube Tutorial](https://www.youtube.com/watch?v=IbccD1TD0Z8)
-- Discussion: [LFPF Thread](https://www.largeformatphotography.info/forum/showthread.php?173354)
-
-### M5Core2 Controller
-- **Author**: Sylvain Ferrand
-- **License**: MIT License
-- **Version**: 1.1 (February 2026)
-
 ## 📧 Contact
 
 For questions or suggestions, please open an issue on GitHub.
