@@ -61,8 +61,6 @@ M5Core2 Port A (Red Grove connector)
 └─ GND (Black wire) → Servo GND
 ```
 
-**Note**: Port A uses GPIO 32 by default. Pin 33 (yellow wire) can also be used with code modification.
-
 
 ## 🎯 Usage Guide
 

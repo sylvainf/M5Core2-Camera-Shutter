@@ -20,7 +20,7 @@
 
 // --- SERVO CONFIGURATION ---
 Servo myServo;
-const int servoPin = 32; // Port A (Red): Pin 32 (white wire) or 33 (yellow wire)
+const int servoPin = 32;
 
 const int SERVO_MIN = 0;   // Minimum angle (closed)
 const int SERVO_MAX = 180; // Maximum angle (open)
