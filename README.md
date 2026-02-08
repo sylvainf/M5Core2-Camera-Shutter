@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/version-1.1-blue.svg)](https://github.com/sylvainf/M5Core2-Camera-Shutter)
 
-A modern touchscreen controller for the [Servo-Shutter](https://github.com/hackaninstant/Servo-Shutter) 3D printed leaf shutter designed by hackaninstant (thank you for sharring your great design. This project replaces the original Arduino Nano + OLED + buttons setup with an M5Stack Core2, providing an intuitive touchscreen interface and enhanced features.
+A modern touchscreen controller for the [Servo-Shutter](https://github.com/hackaninstant/Servo-Shutter) 3D printed leaf shutter designed by hackaninstant (thank you for sharring your great design). This project replaces the original Arduino Nano + OLED + buttons setup with an M5Stack Core2, providing an intuitive touchscreen interface and enhanced features.
 
 ![M5Core2 Shutter Controller](interface.jpg)
 *Touchscreen interface with multiple exposure modes*
